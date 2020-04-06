@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BSCS6thB060720</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_the_email_here">Enter the email here</string>
+    <string name="enter_the_password_here">Enter the password here</string>
+</resources>
